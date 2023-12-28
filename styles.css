@@ -1,0 +1,82 @@
+
+
+/*google forms*/
+
+body{
+    background-color:#D6B4FC;
+    display:flex;
+    justify-content: center;
+    font-family: serif;
+}
+.container{
+ 
+}
+.name{
+   background-color: white;
+   font-size: 20px;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 8px;
+   width: 700px; 
+      height: 200px; 
+      border-radius: 20px;
+}
+.top{
+    background-color: rgb(124, 9, 231);
+    width: 780px; 
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.intro{
+    background-color: white;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+   padding-right: 40px;
+   width: 700px; 
+      height: 200px; 
+      border-radius: 8px;
+}
+.dept{
+    background-color: white;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+   
+    border-radius: 20px;
+   width: 700px; 
+      height: 100px; 
+}
+.position{
+    background-color: white;
+    font-size: 20px;
+    padding-left: 40px;
+   
+   padding-right: 40px;
+   width: 700px;
+      height: 100px; 
+      border-radius: 20px;
+}
+button{
+    background-color: rgb(105, 0, 203);
+    color:white;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 100px;
+}
+input{
+    font-weight: bold;
+}
+span{
+    color: red;
+}
+.foot{
+    text-align: left;
+}
+h2{
+    color: rgb(145, 140, 140);
+    font-size: 20px;
+    text-align: center;
+}
