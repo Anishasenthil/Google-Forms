@@ -68,6 +68,10 @@ button{
 }
 input{
     font-weight: bold;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    width: 300px;
 }
 span{
     color: red;
